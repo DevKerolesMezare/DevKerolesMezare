@@ -37,20 +37,6 @@
 * Visual Studio
 * SQL Server Management Studio (SSMS)
 
----
-
-## 🚀 Featured Projects
-
-🏦 Bank Management System
-Banking system using SQL Server, ADO.NET, Stored Procedures, and 3-Tier Architecture.
-
-⚙ Database Code Generator
-Automation tool for generating CRUD operations and integrating SQL Server Stored Procedures, which saved significant development time by automating over 90% of the data access layer and reducing manual backend coding.
-
-📂 File Monitoring Service
-Windows Service for automated folder monitoring, file transfer, file renaming using GUID, and secure file handling with operation logging.
-
----
 
 ## 📫 Connect With Me
 
